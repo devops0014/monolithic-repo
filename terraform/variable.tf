@@ -1,6 +1,6 @@
 variable "ami_id" {
 type = string
-default = "ami-09538990a0c4fe9be"
+default = "ami-03eb6185d756497f8"
 }
 
 variable "itype" {
